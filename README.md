@@ -11,6 +11,9 @@
 ```bash
 clang++ -std=c++17 main.cpp admin.res
 ```
+```shell
+clang++ -std=c++17 -Iinclude -Ithird_party main.cpp src/downloader/source_factory.cpp src/downloader/kit.cpp src/downloader/winhttp_downloader.cpp src/installer/installer.cpp src/utils/utils.cpp -o XJ380-Env-Builder.exe -lwinhttp -lshlwapi -lshell32 -ladvapi32 -luser32
+```
 **`admin.res`需要Visual Studio(从[VS官网](https://visualstudio.microsoft.com/)下载)编译`admin.rc`文件得到，编译命令为：**
 ```bash
 rc admin.rc

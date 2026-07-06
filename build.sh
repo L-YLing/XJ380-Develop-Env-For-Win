@@ -1,2 +1,2 @@
 rc admin.rc
-clang++ -std=c++17 main.cpp admin.res
+clang++ -std=c++17 -Iinclude -Ithird_party main.cpp src/downloader/source_factory.cpp src/downloader/kit.cpp src/downloader/winhttp_downloader.cpp src/installer/installer.cpp src/utils/utils.cpp admin.res -o XJ380-Env-Builder.exe -lwinhttp -lshlwapi
