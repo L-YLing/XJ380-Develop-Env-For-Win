@@ -1,0 +1,7 @@
+*.pdb
+*.exe
+*.res
+*.manifest
+bin/
+depend/
+.vscode/
