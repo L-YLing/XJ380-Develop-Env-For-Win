@@ -1,0 +1,75 @@
+{
+    "XACT": {
+        "Description": "XJ380 应用程序编译套件 XACT",
+        "XACT_For_Win": {
+            "Description": "XJ380 应用程序编译套件 (XACT For Windows, 适用于Windows)",
+            "Verisons": {
+                "Latest": {
+                    "Url":{
+                        "Gitee": "https://gitee.com/GuoqiFish/xingji-interactive-software-download-item-storage/releases/download/20260519-1/XJ380_XACT_2026v4_windows.zip",
+                        "Github": "https://github.com/xingji-studio/XXCC-suite/releases/download/2026v4/XJ380_XACT_2026v4_windows.zip"
+                    }
+                }
+            },
+            "Extract_dir": "xact_windows",
+            "Extract_name": "XJ380_XACT_2026v4_windows.zip",
+            "Extract_type": "zip"
+        },
+        "XACT_For_Linux": {
+            "Description": "XJ380 应用程序编译套件 (XACT For Linux, 适用于Linux)",
+            "Verisons": {
+                "Latest": {
+                    "Url":{
+                        "Gitee": "https://gitee.com/GuoqiFish/xingji-interactive-software-download-item-storage/releases/download/20260519-1/XJ380_XACT_2026v4_linux.zip",
+                        "Github": "https://github.com/xingji-studio/XXCC-suite/releases/download/2026v4/XJ380_XACT_2026v4_linux.zip"
+                    }
+                }
+            },
+            "Extract_dir": "xact_linux",
+            "Extract_name": "XJ380_XACT_2026v4_linux.zip",
+            "Extract_type": "zip"
+        },
+        "XACT_For_XJ380": {
+            "Description": "XJ380 应用程序编译套件 (XACT For XJ380, 适用于XJ380平台)",
+            "Verisons": {
+                "Latest": {
+                    "Url":{
+                        "Gitee": "https://gitee.com/GuoqiFish/xingji-interactive-software-download-item-storage/releases/download/20260519-1/XJ380_XACT_2026v4_xj380.zip",
+                        "Github": "https://github.com/xingji-studio/XXCC-suite/releases/download/2026v4/XJ380_XACT_2026v4_xj380.zip"
+                    }
+                }
+            },
+            "Extract_dir": "xact_xj380",
+            "Extract_name": "XJ380_XACT_2026v4_xj380.zip",
+            "Extract_type": "zip"
+        },
+        "XJ380_C_CPP_Libs": {
+            "Description": "XJ380 API 静态链接库及头文件（C/C++）",
+            "Version": {
+                "Latest": {
+                    "Url":{
+                        "Gitee":"https://gitee.com/GuoqiFish/xingji-interactive-software-download-item-storage/releases/download/20260519-1/XJ380_CPP_API_Depend_1_3.zip",
+                        "Github":"https://github.com/xingji-studio/XXCC-suite/releases/download/2026v4/XJ380_CPP_API_Depend_1_3.zip"
+                    }
+                }
+            },
+            "Extract_dir": "xj380_cpp_libs",
+            "Extract_name": "XJ380_API_Libs_1_3.zip",
+            "Extract_type": "zip"
+        },
+        "XJ380_API_DOCS_For_C_CPP":{
+            "Description": "XJ380 API 标准文档 (C/C++)",
+            "Version": {
+                "Latest": {
+                    "Url":{
+                        "Gitee":"https://gitee.com/GuoqiFish/xingji-interactive-software-download-item-storage/releases/download/20260519-1/XJ380_API_Spec_CPP_1_3.pdf",
+                        "Github":"https://github.com/xingji-studio/XXCC-suite/releases/download/2026v4/XJ380_API_Spec_CPP_1_3.pdf"
+                    }
+                }
+            },
+            "Extract_dir": "xj80_api_docs_for_cpp",
+            "Extract_name": "XJ380_API_Spec_CPP_C.pdf",
+            "Extract_type": "pdf"
+        }
+    }
+}
