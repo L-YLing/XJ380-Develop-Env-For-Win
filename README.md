@@ -1,3 +1,8 @@
+# 项目废弃声明 | Project Abandonment Statement
+**此项目已惨遭废弃，请移步新仓库:[SystemDevelopingTools](https://github.com/DevApotheosis/SystemDevelopingTools)**
+---
+**This project has sadly been abandoned, please check out the new repository: [SystemDevelopingTools](https://github.com/DevApotheosis/SystemDevelopingTools)**
+
 # 编译
 **以下为推荐的编译项:**
 | **编译器** | **标准** | **系统环境** |
